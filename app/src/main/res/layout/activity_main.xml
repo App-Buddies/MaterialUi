@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.admin.materialui.MainActivity">
+
+
+    <Button
+        android:id="@+id/cordinator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AppBarLayout"
+        android:onClick="showAppBarLayout"/>
+
+    <Button
+        android:id="@+id/toolbarid"
+        android:onClick="showtoolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CoordinatorLayout with fab" />
+
+    <Button
+        android:id="@+id/coolapsing"
+        android:onClick="showColapsingToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ColapsingToolbar" />
+
+    <Button
+        android:id="@+id/textinput"
+        android:onClick="showTextIput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextInputLayout" />
+    <Button
+        android:id="@+id/tab"
+        android:onClick="showTab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tablayout" />
+
+    <Button
+        android:id="@+id/navi"
+        android:onClick="showNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NavigationDrawer" />
+
+    <Button
+        android:id="@+id/navbottom"
+        android:onClick="showBottomNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BottomNavigationDrawer" />
+
+    <Button
+        android:id="@+id/showBottomsheet"
+        android:onClick="showBottomsheet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="showBottomsheet" />
+
+    <Button
+        android:id="@+id/showRecycler"
+        android:onClick="showRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="showRecycler" />
+    <Button
+        android:id="@+id/showContextualMeu"
+        android:onClick="showContextualMeu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="showContextualMeu" />
+    <Button
+        android:id="@+id/notificationActivity"
+        android:onClick="notificationActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="notification" />
+
+    <Button
+        android:id="@+id/navigationDrawerActivity"
+        android:onClick="navigationDrawerActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="navigationDrawerActivity" />
+
+</LinearLayout>

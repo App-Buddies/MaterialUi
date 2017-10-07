@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialUi</string>
+    <string name="description">Using the Hello World guide, you’ll create a repository, start a branch, 
+        write comments, and open a pull request.
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itee1"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+    <item
+        android:id="@+id/itee2"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee3"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee4"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee5"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee6"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee7"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee8"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee9"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee10"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee11"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+    <item
+        android:id="@+id/itee12"
+        android:checkable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="FaceBook" />
+
+</menu>
